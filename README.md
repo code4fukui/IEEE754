@@ -1,5 +1,7 @@
 # IEEE754
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This project provides a JavaScript library for encoding and decoding IEEE 754 floating-point numbers.
 
 ## Features
