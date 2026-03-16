@@ -21,4 +21,4 @@ console.log(f32array);
 
 ## License
 
-MIT License
+MIT License — see [LICENSE](LICENSE).
